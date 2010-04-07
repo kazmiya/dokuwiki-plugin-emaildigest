@@ -1,0 +1,7 @@
+base   emaildigest
+author Kazutaka Miyasaka
+email  kazmiya@gmail.com
+date   2010-04-08
+name   Email Digest Plugin
+desc   Periodically sends out an email digest instead of on every update
+url    http://www.dokuwiki.org/plugin:emaildigest
